@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <tittle>Website pertama ku</title>
+      <title>Website pertama ku</title>
 
       <style>
           h1{
@@ -18,7 +18,14 @@
 
       <h1>Haloooo semua</h1>
       <p>ini website pertama ku selama belajar coding semoga saya bisa mahir dalam belajar ini.</p>
-      
+
+      <a href="https://www.youtube.com">
+             Buka youtube
+      </a>
+
+      <br><br>
+  
       <button>Klik saya</button>
+  
 </body>
 </html>
